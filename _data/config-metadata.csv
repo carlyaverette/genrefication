@@ -13,3 +13,7 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+publisher,Publisher,
+category,Category,true
+media-format,Resource Type,true
+link,URL to Resource,,true
